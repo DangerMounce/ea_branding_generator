@@ -1,6 +1,6 @@
 # Branding Colors Generator
 
-This Node.js script generates a CSS file (`branding.css`) containing CSS variables for primary and secondary colors and their variants. It's designed to streamline the process of defining and updating branding colors in web development projects.
+This Node.js script generates a CSS file (`branding.css`) containing CSS variables for primary and secondary colors and their variants. It's designed to streamline the process of defining and updating branding colors in customizing CSS in product tours.
 
 ## Overview
 
